@@ -1,5 +1,3 @@
-name = input("Enter your name:")
-age = input("age:")
-print(f"Hello {name}")
-print(f"you are{age}")
-
+name = input("susmita")
+for i in range(3):
+     print(name)
